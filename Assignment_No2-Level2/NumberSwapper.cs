@@ -6,16 +6,12 @@ namespace Assignment_No2
     {
         public void SwapNumbers()
         {
-            // Prompt the user to enter the first number
-            Console.Write("Enter the first number: ");
             
-            // Read and convert the first number to an integer
+            Console.Write("Enter the first number: ");
             int number1 = Convert.ToInt32(Console.ReadLine());
             
-            // Prompt the user to enter the second number
-            Console.Write("Enter the second number: ");
             
-            // Read and convert the second number to an integer
+            Console.Write("Enter the second number: ");
             int number2 = Convert.ToInt32(Console.ReadLine());
             
             // Display the numbers before swapping
