@@ -1,0 +1,14 @@
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\bin\Debug\net9.0\Assignment_No2.exe
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\bin\Debug\net9.0\Assignment_No2.deps.json
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\bin\Debug\net9.0\Assignment_No2.runtimeconfig.json
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\bin\Debug\net9.0\Assignment_No2.dll
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\bin\Debug\net9.0\Assignment_No2.pdb
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\obj\Debug\net9.0\Assignment_No2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\obj\Debug\net9.0\Assignment_No2.AssemblyInfoInputs.cache
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\obj\Debug\net9.0\Assignment_No2.AssemblyInfo.cs
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\obj\Debug\net9.0\Assignment_No2.csproj.CoreCompileInputs.cache
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\obj\Debug\net9.0\Assignment_No2.dll
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\obj\Debug\net9.0\refint\Assignment_No2.dll
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\obj\Debug\net9.0\Assignment_No2.pdb
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\obj\Debug\net9.0\Assignment_No2.genruntimeconfig.cache
+C:\Users\91870\Desktop\New folder (3)\Assignment_No2\obj\Debug\net9.0\ref\Assignment_No2.dll
