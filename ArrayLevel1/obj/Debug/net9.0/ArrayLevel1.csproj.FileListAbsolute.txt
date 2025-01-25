@@ -1,0 +1,14 @@
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\bin\Debug\net9.0\ArrayLevel1.exe
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\bin\Debug\net9.0\ArrayLevel1.deps.json
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\bin\Debug\net9.0\ArrayLevel1.runtimeconfig.json
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\bin\Debug\net9.0\ArrayLevel1.dll
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\bin\Debug\net9.0\ArrayLevel1.pdb
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\obj\Debug\net9.0\ArrayLevel1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\obj\Debug\net9.0\ArrayLevel1.AssemblyInfoInputs.cache
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\obj\Debug\net9.0\ArrayLevel1.AssemblyInfo.cs
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\obj\Debug\net9.0\ArrayLevel1.csproj.CoreCompileInputs.cache
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\obj\Debug\net9.0\ArrayLevel1.dll
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\obj\Debug\net9.0\refint\ArrayLevel1.dll
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\obj\Debug\net9.0\ArrayLevel1.pdb
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\obj\Debug\net9.0\ArrayLevel1.genruntimeconfig.cache
+C:\Users\91870\Desktop\New folder (3)\ArrayLevel1\obj\Debug\net9.0\ref\ArrayLevel1.dll
