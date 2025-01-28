@@ -1,0 +1,14 @@
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\bin\Debug\net9.0\MethodLevel1.exe
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\bin\Debug\net9.0\MethodLevel1.deps.json
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\bin\Debug\net9.0\MethodLevel1.runtimeconfig.json
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\bin\Debug\net9.0\MethodLevel1.dll
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\bin\Debug\net9.0\MethodLevel1.pdb
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\obj\Debug\net9.0\MethodLevel1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\obj\Debug\net9.0\MethodLevel1.AssemblyInfoInputs.cache
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\obj\Debug\net9.0\MethodLevel1.AssemblyInfo.cs
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\obj\Debug\net9.0\MethodLevel1.csproj.CoreCompileInputs.cache
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\obj\Debug\net9.0\MethodLevel1.dll
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\obj\Debug\net9.0\refint\MethodLevel1.dll
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\obj\Debug\net9.0\MethodLevel1.pdb
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\obj\Debug\net9.0\MethodLevel1.genruntimeconfig.cache
+C:\Users\91870\Desktop\New folder (3)\MethodLevel1\obj\Debug\net9.0\ref\MethodLevel1.dll

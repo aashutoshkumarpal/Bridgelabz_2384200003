@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MethodLevel3/1.0.0": {
+        "runtime": {
+          "MethodLevel3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodLevel3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
