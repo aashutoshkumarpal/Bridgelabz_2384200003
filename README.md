@@ -7,3 +7,9 @@ Practice Question of Operator and basics datatype on 22/01/25
 
 Task 3: 
 Practice Questions of If-Else and Flow Control on 23/01/25 
+
+Task 4:
+Assignment of Array (level 1 and level 2)
+
+Task 5:
+Assignment of Method (level 1, level2 , level3)
