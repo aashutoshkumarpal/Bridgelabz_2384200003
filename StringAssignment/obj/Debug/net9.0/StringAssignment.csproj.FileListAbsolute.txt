@@ -1,0 +1,14 @@
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\bin\Debug\net9.0\StringAssignment.exe
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\bin\Debug\net9.0\StringAssignment.deps.json
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\bin\Debug\net9.0\StringAssignment.runtimeconfig.json
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\bin\Debug\net9.0\StringAssignment.dll
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\bin\Debug\net9.0\StringAssignment.pdb
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\obj\Debug\net9.0\StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\obj\Debug\net9.0\StringAssignment.AssemblyInfoInputs.cache
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\obj\Debug\net9.0\StringAssignment.AssemblyInfo.cs
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\obj\Debug\net9.0\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\obj\Debug\net9.0\StringAssignment.dll
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\obj\Debug\net9.0\refint\StringAssignment.dll
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\obj\Debug\net9.0\StringAssignment.pdb
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\obj\Debug\net9.0\StringAssignment.genruntimeconfig.cache
+C:\Users\91870\Desktop\New folder (3)\StringAssignment\obj\Debug\net9.0\ref\StringAssignment.dll
