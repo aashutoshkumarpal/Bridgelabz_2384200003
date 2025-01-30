@@ -13,3 +13,6 @@ Assignment of Array (level 1 and level 2)
 
 Task 5:
 Assignment of Method (level 1, level2 , level3)
+
+Task 6:
+Assignment of String 
