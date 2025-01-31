@@ -16,3 +16,6 @@ Assignment of Method (level 1, level2 , level3)
 
 Task 6:
 Assignment of String 
+
+Task 7:
+Date And Tine - BuiltIn Function Assignment 
