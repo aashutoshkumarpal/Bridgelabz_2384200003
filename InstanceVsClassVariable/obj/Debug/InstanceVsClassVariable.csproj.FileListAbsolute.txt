@@ -1,0 +1,7 @@
+C:\Users\91870\source\repos\InstanceVsClassVariable\bin\Debug\InstanceVsClassVariable.exe.config
+C:\Users\91870\source\repos\InstanceVsClassVariable\bin\Debug\InstanceVsClassVariable.exe
+C:\Users\91870\source\repos\InstanceVsClassVariable\bin\Debug\InstanceVsClassVariable.pdb
+C:\Users\91870\source\repos\InstanceVsClassVariable\obj\Debug\InstanceVsClassVariable.csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\InstanceVsClassVariable\obj\Debug\InstanceVsClassVariable.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\InstanceVsClassVariable\obj\Debug\InstanceVsClassVariable.exe
+C:\Users\91870\source\repos\InstanceVsClassVariable\obj\Debug\InstanceVsClassVariable.pdb

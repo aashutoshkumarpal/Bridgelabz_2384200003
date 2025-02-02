@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|c:\\users\\91870\\source\\repos\\instancevsclassvariable\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|c:\\users\\91870\\source\\repos\\instancevsclassvariable\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|c:\\users\\91870\\source\\repos\\instancevsclassvariable\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|c:\\users\\91870\\source\\repos\\instancevsclassvariable\\callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|solutionrelative:callingallclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|c:\\users\\91870\\source\\repos\\instancevsclassvariable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB798B2-5C8C-477F-8462-B0A607200827}|InstanceVsClassVariable.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:54:06.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:51:19.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:44:36.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallingAllClass.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\CallingAllClass.cs",
+              "RelativeDocumentMoniker": "CallingAllClass.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\CallingAllClass.cs",
+              "RelativeToolTip": "CallingAllClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:44:26.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\InstanceVsClassVariable\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:43:56.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

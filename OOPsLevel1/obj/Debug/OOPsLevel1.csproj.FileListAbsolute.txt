@@ -1,0 +1,7 @@
+C:\Users\91870\source\repos\OOPsLevel1\bin\Debug\OOPsLevel1.exe.config
+C:\Users\91870\source\repos\OOPsLevel1\bin\Debug\OOPsLevel1.exe
+C:\Users\91870\source\repos\OOPsLevel1\bin\Debug\OOPsLevel1.pdb
+C:\Users\91870\source\repos\OOPsLevel1\obj\Debug\OOPsLevel1.csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\OOPsLevel1\obj\Debug\OOPsLevel1.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\OOPsLevel1\obj\Debug\OOPsLevel1.exe
+C:\Users\91870\source\repos\OOPsLevel1\obj\Debug\OOPsLevel1.pdb
