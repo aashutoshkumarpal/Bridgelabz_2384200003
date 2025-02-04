@@ -21,7 +21,10 @@ Task 7:
 Date And Tine - BuiltIn Function Assignment 
 
 Task 8:
-Basic Oops Question 
+Basic Oops Question about Classs And Object  
 
 Task 9:
 OOPs, Instance vs Class variable and Access Modifiers 
+
+Task 10:
+OOps- is Operator,this keyword , Sealed class 
