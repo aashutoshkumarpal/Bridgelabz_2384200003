@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91870\\source\\repos\\AssignmentOOPs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28740C7E-AEDF-4B3C-8CDD-BFF0ECFCF353}|..\\Hospital Patient Management\\Hospital Patient Management.csproj|c:\\users\\91870\\source\\repos\\hospital patient management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28740C7E-AEDF-4B3C-8CDD-BFF0ECFCF353}|..\\Hospital Patient Management\\Hospital Patient Management.csproj|c:\\users\\91870\\source\\repos\\hospital patient management\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC94AE9C-4222-4DAD-9030-58C838240740}|..\\Ride-Hailing Application\\Ride-Hailing Application.csproj|c:\\users\\91870\\source\\repos\\ride-hailing application\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC94AE9C-4222-4DAD-9030-58C838240740}|..\\Ride-Hailing Application\\Ride-Hailing Application.csproj|c:\\users\\91870\\source\\repos\\ride-hailing application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7607348B-F912-49C1-8502-2C79E55749E8}|..\\Online Food Delivery System\\Online Food Delivery System.csproj|c:\\users\\91870\\source\\repos\\online food delivery system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7607348B-F912-49C1-8502-2C79E55749E8}|..\\Online Food Delivery System\\Online Food Delivery System.csproj|c:\\users\\91870\\source\\repos\\online food delivery system\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0B94FE-5DEE-4376-A4F9-6DBE13F0613E}|..\\Library Management System\\Library Management System.csproj|c:\\users\\91870\\source\\repos\\library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0B94FE-5DEE-4376-A4F9-6DBE13F0613E}|..\\Library Management System\\Library Management System.csproj|c:\\users\\91870\\source\\repos\\library management system\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA66415-F8CD-4A4D-A43C-AE5F89E2290A}|..\\Banking System\\Banking System.csproj|c:\\users\\91870\\source\\repos\\banking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA66415-F8CD-4A4D-A43C-AE5F89E2290A}|..\\Banking System\\Banking System.csproj|c:\\users\\91870\\source\\repos\\banking system\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF5D405-1325-47FA-AA07-78A686D4D626}|..\\Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\91870\\source\\repos\\vehicle rental system\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF5D405-1325-47FA-AA07-78A686D4D626}|..\\Vehicle Rental System\\Vehicle Rental System.csproj|c:\\users\\91870\\source\\repos\\vehicle rental system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C0F3C1-35FC-4CBC-B3FA-8AFF1F9E9E14}|..\\E-Commerce Platform\\E-Commerce Platform.csproj|c:\\users\\91870\\source\\repos\\e-commerce platform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C0F3C1-35FC-4CBC-B3FA-8AFF1F9E9E14}|..\\E-Commerce Platform\\E-Commerce Platform.csproj|c:\\users\\91870\\source\\repos\\e-commerce platform\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365AF4DB-E03D-4363-917F-4883373E12C9}|AssignmentOOPs.csproj|c:\\users\\91870\\source\\repos\\assignmentoops\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365AF4DB-E03D-4363-917F-4883373E12C9}|AssignmentOOPs.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365AF4DB-E03D-4363-917F-4883373E12C9}|AssignmentOOPs.csproj|c:\\users\\91870\\source\\repos\\assignmentoops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365AF4DB-E03D-4363-917F-4883373E12C9}|AssignmentOOPs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Ride-Hailing Application\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\Ride-Hailing Application\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Ride-Hailing Application\\Vehicle.cs",
+              "RelativeToolTip": "..\\Ride-Hailing Application\\Vehicle.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwFwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:32:26.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Ride-Hailing Application\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ride-Hailing Application\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Ride-Hailing Application\\Program.cs",
+              "RelativeToolTip": "..\\Ride-Hailing Application\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:29:27.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Hospital Patient Management\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\Hospital Patient Management\\Patient.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Hospital Patient Management\\Patient.cs",
+              "RelativeToolTip": "..\\Hospital Patient Management\\Patient.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwFYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:26:05.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Hospital Patient Management\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Hospital Patient Management\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Hospital Patient Management\\Program.cs",
+              "RelativeToolTip": "..\\Hospital Patient Management\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:24:50.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Online Food Delivery System\\FoodItem.cs",
+              "RelativeDocumentMoniker": "..\\Online Food Delivery System\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Online Food Delivery System\\FoodItem.cs",
+              "RelativeToolTip": "..\\Online Food Delivery System\\FoodItem.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:40:13.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Online Food Delivery System\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Online Food Delivery System\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Online Food Delivery System\\Program.cs",
+              "RelativeToolTip": "..\\Online Food Delivery System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:35:37.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Library Management System\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "..\\Library Management System\\LibraryItem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Library Management System\\LibraryItem.cs",
+              "RelativeToolTip": "..\\Library Management System\\LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:20:17.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Library Management System\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Library Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Library Management System\\Program.cs",
+              "RelativeToolTip": "..\\Library Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:17:26.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Banking System\\BankAccount.cs",
+              "RelativeDocumentMoniker": "..\\Banking System\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Banking System\\BankAccount.cs",
+              "RelativeToolTip": "..\\Banking System\\BankAccount.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:15:11.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Banking System\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Banking System\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Banking System\\Program.cs",
+              "RelativeToolTip": "..\\Banking System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:14:21.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Vehicle Rental System\\Vehicle.cs",
+              "RelativeDocumentMoniker": "..\\Vehicle Rental System\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Vehicle Rental System\\Vehicle.cs",
+              "RelativeToolTip": "..\\Vehicle Rental System\\Vehicle.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:11:10.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\Vehicle Rental System\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Vehicle Rental System\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\Vehicle Rental System\\Program.cs",
+              "RelativeToolTip": "..\\Vehicle Rental System\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:10:26.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\E-Commerce Platform\\Product.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce Platform\\Product.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\E-Commerce Platform\\Product.cs",
+              "RelativeToolTip": "..\\E-Commerce Platform\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:08:16.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\E-Commerce Platform\\Program.cs",
+              "RelativeDocumentMoniker": "..\\E-Commerce Platform\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\E-Commerce Platform\\Program.cs",
+              "RelativeToolTip": "..\\E-Commerce Platform\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:07:55.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\AssignmentOOPs\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\AssignmentOOPs\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:58:32.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\AssignmentOOPs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\AssignmentOOPs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:44:18.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

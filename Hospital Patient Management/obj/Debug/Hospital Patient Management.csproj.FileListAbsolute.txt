@@ -1,0 +1,7 @@
+C:\Users\91870\source\repos\Hospital Patient Management\bin\Debug\Hospital Patient Management.exe.config
+C:\Users\91870\source\repos\Hospital Patient Management\bin\Debug\Hospital Patient Management.exe
+C:\Users\91870\source\repos\Hospital Patient Management\bin\Debug\Hospital Patient Management.pdb
+C:\Users\91870\source\repos\Hospital Patient Management\obj\Debug\Hospital Patient Management.csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\Hospital Patient Management\obj\Debug\Hospital Patient Management.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\Hospital Patient Management\obj\Debug\Hospital Patient Management.exe
+C:\Users\91870\source\repos\Hospital Patient Management\obj\Debug\Hospital Patient Management.pdb
