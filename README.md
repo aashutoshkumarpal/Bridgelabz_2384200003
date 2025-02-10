@@ -28,3 +28,12 @@ OOPs, Instance vs Class variable and Access Modifiers
 
 Task 10:
 OOps- is Operator,this keyword , Sealed class 
+
+Task 11:
+Object Modeling Assignment 
+
+Task 12:
+Assignment of Inheritance 
+
+Task 13:
+Assignment of Encapsulation, Abstraction,Polymorphism, Interface 
