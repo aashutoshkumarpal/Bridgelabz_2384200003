@@ -40,3 +40,6 @@ Assignment of Encapsulation, Abstraction,Polymorphism, Interface
 
 Task 14:
 Assignment of LinkedList
+
+Task 15:
+Assignment of Stack.Queue, HashMap 
