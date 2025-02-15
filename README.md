@@ -43,3 +43,9 @@ Assignment of LinkedList
 
 Task 15:
 Assignment of Stack.Queue, HashMap 
+
+Task 16:
+Assignment of Sorting 
+
+Task 17:
+Assignment of linear search and binary search, File Handling ,StringBuilder 
