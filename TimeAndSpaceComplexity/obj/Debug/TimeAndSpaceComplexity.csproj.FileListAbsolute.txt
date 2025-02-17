@@ -1,0 +1,7 @@
+C:\Users\91870\source\repos\TimeAndSp\bin\Debug\TimeAndSp.exe.config
+C:\Users\91870\source\repos\TimeAndSp\bin\Debug\TimeAndSp.exe
+C:\Users\91870\source\repos\TimeAndSp\bin\Debug\TimeAndSp.pdb
+C:\Users\91870\source\repos\TimeAndSp\obj\Debug\TimeAndSpaceComplexity.csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\TimeAndSp\obj\Debug\TimeAndSpaceComplexity.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\TimeAndSp\obj\Debug\TimeAndSp.exe
+C:\Users\91870\source\repos\TimeAndSp\obj\Debug\TimeAndSp.pdb
