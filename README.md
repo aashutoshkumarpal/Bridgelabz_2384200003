@@ -49,3 +49,10 @@ Assignment of Sorting
 
 Task 17:
 Assignment of linear search and binary search, File Handling ,StringBuilder 
+
+Task 18:
+Assignment of Time And Space Complexity
+
+Task 19:
+Assignment of Generics 
+
