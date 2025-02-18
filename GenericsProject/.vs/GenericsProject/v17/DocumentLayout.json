@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91870\\source\\repos\\GenericsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|c:\\users\\91870\\source\\repos\\genericsproject\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|c:\\users\\91870\\source\\repos\\genericsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|c:\\users\\91870\\source\\repos\\genericsproject\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|solutionrelative:productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|c:\\users\\91870\\source\\repos\\genericsproject\\vegetarianmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|solutionrelative:vegetarianmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|c:\\users\\91870\\source\\repos\\genericsproject\\jobrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|solutionrelative:jobrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|c:\\users\\91870\\source\\repos\\genericsproject\\coursetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|solutionrelative:coursetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|c:\\users\\91870\\source\\repos\\genericsproject\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C50D6D8-1ABC-4616-8497-4367A684AB5F}|GenericsProject.csproj|solutionrelative:warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\GenericsProject\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\GenericsProject\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:43:26.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobRole.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\GenericsProject\\JobRole.cs",
+              "RelativeDocumentMoniker": "JobRole.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\GenericsProject\\JobRole.cs",
+              "RelativeToolTip": "JobRole.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:09:05.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VegetarianMeal.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\GenericsProject\\VegetarianMeal.cs",
+              "RelativeDocumentMoniker": "VegetarianMeal.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\GenericsProject\\VegetarianMeal.cs",
+              "RelativeToolTip": "VegetarianMeal.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwEsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:02:16.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseType.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\GenericsProject\\CourseType.cs",
+              "RelativeDocumentMoniker": "CourseType.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\GenericsProject\\CourseType.cs",
+              "RelativeToolTip": "CourseType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:59:45.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\GenericsProject\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ProductCategory.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\GenericsProject\\ProductCategory.cs",
+              "RelativeToolTip": "ProductCategory.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwC4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:45:01.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WarehouseItem.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\GenericsProject\\WarehouseItem.cs",
+              "RelativeDocumentMoniker": "WarehouseItem.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\GenericsProject\\WarehouseItem.cs",
+              "RelativeToolTip": "WarehouseItem.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAACkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:25:13.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\GenericsProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\GenericsProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:24:44.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
