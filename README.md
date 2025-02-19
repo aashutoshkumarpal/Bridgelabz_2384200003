@@ -56,3 +56,5 @@ Assignment of Time And Space Complexity
 Task 19:
 Assignment of Generics 
 
+Task20:
+Assignment of Collections
