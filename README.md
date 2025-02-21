@@ -61,3 +61,6 @@ Assignment of Collections
 
 Task 21:
 Assignment of Streams
+
+Task 22:
+Assignment of Exception Handling
