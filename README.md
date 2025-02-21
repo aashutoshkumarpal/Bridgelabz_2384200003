@@ -58,3 +58,6 @@ Assignment of Generics
 
 Task20:
 Assignment of Collections
+
+Task 21:
+Assignment of Streams
