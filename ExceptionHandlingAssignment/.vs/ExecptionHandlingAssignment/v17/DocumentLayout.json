@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\dividebyzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:dividebyzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|c:\\users\\91870\\source\\repos\\execptionhandlingassignment\\propagatingexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:propagatingexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|c:\\users\\91870\\source\\repos\\execptionhandlingassignment\\finallyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:finallyblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|c:\\users\\91870\\source\\repos\\execptionhandlingassignment\\nestedtrycatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:nestedtrycatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|c:\\users\\91870\\source\\repos\\execptionhandlingassignment\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|c:\\users\\91870\\source\\repos\\execptionhandlingassignment\\interestcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:interestcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|c:\\users\\91870\\source\\repos\\execptionhandlingassignment\\readfirstline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:readfirstline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|c:\\users\\91870\\source\\repos\\execptionhandlingassignment\\arrayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536116F-B9DB-45B8-950C-B6043E3B9479}|ExecptionHandlingAssignment.csproj|solutionrelative:arrayhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NestedTryCatch.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\NestedTryCatch.cs",
+              "RelativeDocumentMoniker": "NestedTryCatch.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\NestedTryCatch.cs",
+              "RelativeToolTip": "NestedTryCatch.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:31:14.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T04:48:34.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinallyBlock.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\FinallyBlock.cs",
+              "RelativeDocumentMoniker": "FinallyBlock.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\FinallyBlock.cs",
+              "RelativeToolTip": "FinallyBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:16:18.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropagatingExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\PropagatingExceptions.cs",
+              "RelativeDocumentMoniker": "PropagatingExceptions.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\PropagatingExceptions.cs",
+              "RelativeToolTip": "PropagatingExceptions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:19:01.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:38:03.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DivideByZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\DivideByZeroException.cs",
+              "RelativeDocumentMoniker": "DivideByZeroException.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\DivideByZeroException.cs",
+              "RelativeToolTip": "DivideByZeroException.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:57:01.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\FileHandler.cs",
+              "RelativeDocumentMoniker": "FileHandler.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\FileHandler.cs",
+              "RelativeToolTip": "FileHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:01:02.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InterestCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\InterestCalculator.cs",
+              "RelativeDocumentMoniker": "InterestCalculator.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\InterestCalculator.cs",
+              "RelativeToolTip": "InterestCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:09:30.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReadFirstLine.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\ReadFirstLine.cs",
+              "RelativeDocumentMoniker": "ReadFirstLine.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\ReadFirstLine.cs",
+              "RelativeToolTip": "ReadFirstLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:05:27.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArrayHandler.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\ArrayHandler.cs",
+              "RelativeDocumentMoniker": "ArrayHandler.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ExecptionHandlingAssignment\\ArrayHandler.cs",
+              "RelativeToolTip": "ArrayHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T09:38:14.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

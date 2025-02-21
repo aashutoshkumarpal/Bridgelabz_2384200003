@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0554257D-D395-4C56-B309-995174FB9B16}</ProjectGuid>
+    <ProjectGuid>{D536116F-B9DB-45B8-950C-B6043E3B9479}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CollectionsAssignment</RootNamespace>
-    <AssemblyName>CollectionsAssignment</AssemblyName>
+    <RootNamespace>ExecptionHandlingAssignment</RootNamespace>
+    <AssemblyName>ExecptionHandlingAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayHandler.cs" />
+    <Compile Include="BankAccount.cs" />
+    <Compile Include="CustomExecption.cs" />
+    <Compile Include="DivideByZeroException.cs" />
+    <Compile Include="FileHandler.cs" />
+    <Compile Include="FinallyBlock.cs" />
+    <Compile Include="InterestCalculator.cs" />
+    <Compile Include="NestedTryCatch.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="PropagatingExceptions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadFirstLine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

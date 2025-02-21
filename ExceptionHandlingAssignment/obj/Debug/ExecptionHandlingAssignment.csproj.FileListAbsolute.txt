@@ -1,0 +1,7 @@
+C:\Users\91870\source\repos\ExecptionHandlingAssignment\bin\Debug\ExecptionHandlingAssignment.exe.config
+C:\Users\91870\source\repos\ExecptionHandlingAssignment\bin\Debug\ExecptionHandlingAssignment.exe
+C:\Users\91870\source\repos\ExecptionHandlingAssignment\bin\Debug\ExecptionHandlingAssignment.pdb
+C:\Users\91870\source\repos\ExecptionHandlingAssignment\obj\Debug\ExecptionHandlingAssignment.csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\ExecptionHandlingAssignment\obj\Debug\ExecptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\ExecptionHandlingAssignment\obj\Debug\ExecptionHandlingAssignment.exe
+C:\Users\91870\source\repos\ExecptionHandlingAssignment\obj\Debug\ExecptionHandlingAssignment.pdb
