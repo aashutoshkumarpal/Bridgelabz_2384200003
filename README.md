@@ -64,3 +64,7 @@ Assignment of Streams
 
 Task 22:
 Assignment of Exception Handling
+
+Task 23:
+Assignment of Regex and NUnit Testing
+
