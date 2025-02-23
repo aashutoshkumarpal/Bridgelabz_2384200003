@@ -1,0 +1,7 @@
+C:\Users\91870\source\repos\ListManagerProject\bin\Debug\ListManagerProject.exe.config
+C:\Users\91870\source\repos\ListManagerProject\bin\Debug\ListManagerProject.exe
+C:\Users\91870\source\repos\ListManagerProject\bin\Debug\ListManagerProject.pdb
+C:\Users\91870\source\repos\ListManagerProject\obj\Debug\ListManagerProject.csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\ListManagerProject\obj\Debug\ListManagerProject.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\ListManagerProject\obj\Debug\ListManagerProject.exe
+C:\Users\91870\source\repos\ListManagerProject\obj\Debug\ListManagerProject.pdb

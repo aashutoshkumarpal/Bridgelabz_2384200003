@@ -1,0 +1,7 @@
+C:\Users\91870\source\repos\StringUtilsProject\bin\Debug\StringUtilsProject.exe.config
+C:\Users\91870\source\repos\StringUtilsProject\bin\Debug\StringUtilsProject.exe
+C:\Users\91870\source\repos\StringUtilsProject\bin\Debug\StringUtilsProject.pdb
+C:\Users\91870\source\repos\StringUtilsProject\obj\Debug\StringUtilsProject.csproj.AssemblyReference.cache
+C:\Users\91870\source\repos\StringUtilsProject\obj\Debug\StringUtilsProject.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\StringUtilsProject\obj\Debug\StringUtilsProject.exe
+C:\Users\91870\source\repos\StringUtilsProject\obj\Debug\StringUtilsProject.pdb

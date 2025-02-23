@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91870\\source\\repos\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80CB99D1-D204-42AC-BEE2-677F871BF4CA}|..\\OtherQuestion\\OtherQuestion.csproj|c:\\users\\91870\\source\\repos\\otherquestion\\calculatorapp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80CB99D1-D204-42AC-BEE2-677F871BF4CA}|..\\OtherQuestion\\OtherQuestion.csproj|c:\\users\\91870\\source\\repos\\otherquestion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A8321C-969E-4008-853B-0A9F706BF532}|..\\ListManagerTests\\ListManagerTests.csproj|c:\\users\\91870\\source\\repos\\listmanagertests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DCB70-55E4-4EEB-A14E-BF0095E92CAE}|..\\ListManagerProject\\ListManagerProject.csproj|c:\\users\\91870\\source\\repos\\listmanagerproject\\listmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7750EA7C-ABAE-4921-8F57-4D1275C31B05}|..\\StringUtilsTests\\StringUtilsTests.csproj|c:\\users\\91870\\source\\repos\\stringutilstests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A9A6D-031D-4D2C-B6BB-F656E06EE4CE}|..\\StringUtilsProject\\StringUtilsProject.csproj|c:\\users\\91870\\source\\repos\\stringutilsproject\\stringutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A029515-D7C9-470A-A438-5B7FF407355D}|..\\CalculatorTest\\CalculatorTest.csproj|c:\\users\\91870\\source\\repos\\calculatortest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB65D7-9DE9-4368-A655-1E3FE8443EAF}|CalculatorApp.csproj|C:\\Users\\91870\\source\\repos\\CalculatorApp\\calculator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAB65D7-9DE9-4368-A655-1E3FE8443EAF}|CalculatorApp.csproj|solutionrelative:calculator .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7DCB70-55E4-4EEB-A14E-BF0095E92CAE}|..\\ListManagerProject\\ListManagerProject.csproj|c:\\users\\91870\\source\\repos\\listmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A9A6D-031D-4D2C-B6BB-F656E06EE4CE}|..\\StringUtilsProject\\StringUtilsProject.csproj|c:\\users\\91870\\source\\repos\\stringutilsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAB65D7-9DE9-4368-A655-1E3FE8443EAF}|CalculatorApp.csproj|C:\\Users\\91870\\source\\repos\\CalculatorApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAB65D7-9DE9-4368-A655-1E3FE8443EAF}|CalculatorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorApp2.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OtherQuestion\\CalculatorApp2.cs",
+              "RelativeDocumentMoniker": "..\\OtherQuestion\\CalculatorApp2.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OtherQuestion\\CalculatorApp2.cs",
+              "RelativeToolTip": "..\\OtherQuestion\\CalculatorApp2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:56:41.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\OtherQuestion\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OtherQuestion\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\OtherQuestion\\Program.cs",
+              "RelativeToolTip": "..\\OtherQuestion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:56:25.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ListManagerTests\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ListManagerTests\\Class1.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ListManagerTests\\Class1.cs",
+              "RelativeToolTip": "..\\ListManagerTests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:47:06.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListManager.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ListManagerProject\\ListManager.cs",
+              "RelativeDocumentMoniker": "..\\ListManagerProject\\ListManager.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ListManagerProject\\ListManager.cs",
+              "RelativeToolTip": "..\\ListManagerProject\\ListManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:43:06.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\ListManagerProject\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ListManagerProject\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\ListManagerProject\\Program.cs",
+              "RelativeToolTip": "..\\ListManagerProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:41:50.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\StringUtilsTests\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\StringUtilsTests\\Class1.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\StringUtilsTests\\Class1.cs",
+              "RelativeToolTip": "..\\StringUtilsTests\\Class1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:35:52.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StringUtils.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\StringUtilsProject\\StringUtils.cs",
+              "RelativeDocumentMoniker": "..\\StringUtilsProject\\StringUtils.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\StringUtilsProject\\StringUtils.cs",
+              "RelativeToolTip": "..\\StringUtilsProject\\StringUtils.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:34:05.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\StringUtilsProject\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StringUtilsProject\\Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\StringUtilsProject\\Program.cs",
+              "RelativeToolTip": "..\\StringUtilsProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:33:47.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\CalculatorTest\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorTest\\Class1.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\CalculatorTest\\Class1.cs",
+              "RelativeToolTip": "..\\CalculatorTest\\Class1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:03:37.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculator .cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\CalculatorApp\\Calculator .cs",
+              "RelativeDocumentMoniker": "Calculator .cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\CalculatorApp\\Calculator .cs",
+              "RelativeToolTip": "Calculator .cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:52:46.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91870\\source\\repos\\CalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91870\\source\\repos\\CalculatorApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:52:31.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
