@@ -68,3 +68,5 @@ Assignment of Exception Handling
 Task 23:
 Assignment of Regex and NUnit Testing
 
+Task 24:
+Assignment of Annotation and Reflection 
