@@ -76,3 +76,6 @@ Assignment of CSV File Handling
 
 Task 26:
 Assignment of Json 
+
+Task 27:
+Assignment of User Registration (Project Structure)
