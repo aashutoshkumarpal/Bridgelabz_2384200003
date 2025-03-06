@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "UserRegitrationReview.Controllers.UserRegistrationController",
+    "Method": "Login",
+    "RelativePath": "UserRegistration/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "ModelLayer.Model.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserRegitrationReview.Controllers.UserRegistrationController",
+    "Method": "ProtectedMethod",
+    "RelativePath": "UserRegistration/protected",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserRegitrationReview.Controllers.UserRegistrationController",
+    "Method": "Register",
+    "RelativePath": "UserRegistration/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userDTO",
+        "Type": "ModelLayer.Model.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserRegitrationReview.Controllers.UserRegistrationController",
+    "Method": "UpdatePassword",
+    "RelativePath": "UserRegistration/update-password/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "newpassword",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
